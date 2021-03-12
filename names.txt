@@ -1,0 +1,168 @@
+["assets/images/speakers/brad-smith.jpg", "Brad Smith", "https://twitter.com/bradsmith\">@bradsmith", "http://bradsmith.com/\">bradsmith.com"]["assets/images/speakers/maya-bruck.jpg", "Maya Bruck", "https://twitter.com/mayabruck\">@mayabruck", "http://mayabruck.com/\">mayabruck.com"]["assets/images/speakers/tessa-harmon.jpg", "Tessa Harmon", "https://twitter.com/tessaharmon\">@tessaharmon", "http://tessaharmon.com/\">tessaharmon.com"]["assets/images/speakers/leslie-jensen-inman.jpg", "Leslie Jensen Inman", "https://twitter.com/lesliejenseninman\">@lesliejenseninman", "http://lesliejenseninman.com/\">lesliejenseninman.com"]["assets/images/speakers/erica-decker.jpg", "Erica Decker", "https://twitter.com/ericadecker\">@ericadecker", "http://ericadecker.com/\">ericadecker.com"]["assets/images/speakers/aaron-irizarry.jpg", "Aaron Irizarry", "https://twitter.com/aaronirizarry\">@aaronirizarry", "http://aaronirizarry.com/\">aaronirizarry.com"]["assets/images/speakers/jenn-downs.jpg", "Jenn Downs", "https://twitter.com/jenndowns\">@jenndowns", "http://jenndowns.com/\">jenndowns.com"]["assets/images/speakers/arman-ghosh.jpg", "Arman Ghosh", "https://twitter.com/armanghosh\">@armanghosh", "http://armanghosh.com/\">armanghosh.com"]["assets/images/speakers/darby-frey.jpg", "Darby Frey", "https://twitter.com/darbyfrey\">@darbyfrey", "http://darbyfrey.com/\">darbyfrey.com"]["assets/images/speakers/candi-lemoine.jpg", "Candi Lemoine", "https://twitter.com/candilemoine\">@candilemoine", "http://candilemoine.com/\">candilemoine.com"]["assets/images/speakers/vitaly-friedman.jpg", "Vitaly Friedman", "https://twitter.com/vitalyfriedman\">@vitalyfriedman", "http://vitalyfriedman.com/\">vitalyfriedman.com"]["assets/images/speakers/dan-denney.jpg", "Dan Denney", "https://twitter.com/dandenney\">@dandenney", "http://dandenney.com/\">dandenney.com"]["assets/images/speakers/shay-howe.jpg", "Shay Howe", "https://twitter.com/shayhowe\">@shayhowe", "http://shayhowe.com/\">shayhowe.com"]["assets/images/speakers/bermon-painter.jpg", "Bermon Painter", "https://twitter.com/bermonpainter\">@bermonpainter", "http://bermonpainter.com/\">bermonpainter.com"]["assets/images/speakers/aj-self.jpg", "Aj Self", "https://twitter.com/ajself\">@ajself", "http://ajself.com/\">ajself.com"]["assets/images/speakers/jen-myers.jpg", "Jen Myers", "https://twitter.com/jenmyers\">@jenmyers", "http://jenmyers.com/\">jenmyers.com"]["assets/images/speakers/victoria-pater.jpg", "Victoria Pater", "https://twitter.com/victoriapater\">@victoriapater", "http://victoriapater.com/\">victoriapater.com"]["assets/images/speakers/estelle-weyl.jpg", "Estelle Weyl", "https://twitter.com/estelleweyl\">@estelleweyl", "http://estelleweyl.com/\">estelleweyl.com"]["assets/images/speakers/chris-mills.jpg", "Chris Mills", "https://twitter.com/chrismills\">@chrismills", "http://chrismills.com/\">chrismills.com"]["assets/images/speakers/zoe-mickley-gillenwater.jpg", "Zoe Mickley Gillenwater", "https://twitter.com/zoemickleygillenwater\">@zoemickleygillenwater", "http://zoemickleygillenwater.com/\">zoemickleygillenwater.com"]["assets/images/speakers/carolyn-chandler.jpg", "Carolyn Chandler", "https://twitter.com/carolynchandler\">@carolynchandler", "http://carolynchandler.com/\">carolynchandler.com"]["assets/images/speakers/adam-connor.jpg", "Adam Connor", "https://twitter.com/adamconnor\">@adamconnor", "http://adamconnor.com/\">adamconnor.com"]["assets/images/speakers/russ-unger.jpg", "Russ Unger", "https://twitter.com/russunger\">@russunger", "http://russunger.com/\">russunger.com"]["assets/images/speakers/jennifer-jones.jpg", "Jennifer Jones", "https://twitter.com/jenniferjones\">@jenniferjones", "http://jenniferjones.com/\">jenniferjones.com"]["assets/images/speakers/brad-smith.jpg", "Brad Smith", "https://twitter.com/bradsmith\">@bradsmith", "http://bradsmith.com/\">bradsmith.com"]
+["assets/images/speakers/maya-bruck.jpg", "Maya Bruck", "https://twitter.com/mayabruck\">@mayabruck", "http://mayabruck.com/\">mayabruck.com"]
+["assets/images/speakers/tessa-harmon.jpg", "Tessa Harmon", "https://twitter.com/tessaharmon\">@tessaharmon", "http://tessaharmon.com/\">tessaharmon.com"]
+["assets/images/speakers/leslie-jensen-inman.jpg", "Leslie Jensen Inman", "https://twitter.com/lesliejenseninman\">@lesliejenseninman", "http://lesliejenseninman.com/\">lesliejenseninman.com"]
+["assets/images/speakers/erica-decker.jpg", "Erica Decker", "https://twitter.com/ericadecker\">@ericadecker", "http://ericadecker.com/\">ericadecker.com"]
+["assets/images/speakers/aaron-irizarry.jpg", "Aaron Irizarry", "https://twitter.com/aaronirizarry\">@aaronirizarry", "http://aaronirizarry.com/\">aaronirizarry.com"]
+["assets/images/speakers/jenn-downs.jpg", "Jenn Downs", "https://twitter.com/jenndowns\">@jenndowns", "http://jenndowns.com/\">jenndowns.com"]
+["assets/images/speakers/arman-ghosh.jpg", "Arman Ghosh", "https://twitter.com/armanghosh\">@armanghosh", "http://armanghosh.com/\">armanghosh.com"]
+["assets/images/speakers/darby-frey.jpg", "Darby Frey", "https://twitter.com/darbyfrey\">@darbyfrey", "http://darbyfrey.com/\">darbyfrey.com"]
+["assets/images/speakers/candi-lemoine.jpg", "Candi Lemoine", "https://twitter.com/candilemoine\">@candilemoine", "http://candilemoine.com/\">candilemoine.com"]
+["assets/images/speakers/vitaly-friedman.jpg", "Vitaly Friedman", "https://twitter.com/vitalyfriedman\">@vitalyfriedman", "http://vitalyfriedman.com/\">vitalyfriedman.com"]
+["assets/images/speakers/dan-denney.jpg", "Dan Denney", "https://twitter.com/dandenney\">@dandenney", "http://dandenney.com/\">dandenney.com"]
+["assets/images/speakers/shay-howe.jpg", "Shay Howe", "https://twitter.com/shayhowe\">@shayhowe", "http://shayhowe.com/\">shayhowe.com"]
+["assets/images/speakers/bermon-painter.jpg", "Bermon Painter", "https://twitter.com/bermonpainter\">@bermonpainter", "http://bermonpainter.com/\">bermonpainter.com"]
+["assets/images/speakers/aj-self.jpg", "Aj Self", "https://twitter.com/ajself\">@ajself", "http://ajself.com/\">ajself.com"]
+["assets/images/speakers/jen-myers.jpg", "Jen Myers", "https://twitter.com/jenmyers\">@jenmyers", "http://jenmyers.com/\">jenmyers.com"]
+["assets/images/speakers/victoria-pater.jpg", "Victoria Pater", "https://twitter.com/victoriapater\">@victoriapater", "http://victoriapater.com/\">victoriapater.com"]
+["assets/images/speakers/estelle-weyl.jpg", "Estelle Weyl", "https://twitter.com/estelleweyl\">@estelleweyl", "http://estelleweyl.com/\">estelleweyl.com"]
+["assets/images/speakers/chris-mills.jpg", "Chris Mills", "https://twitter.com/chrismills\">@chrismills", "http://chrismills.com/\">chrismills.com"]
+["assets/images/speakers/zoe-mickley-gillenwater.jpg", "Zoe Mickley Gillenwater", "https://twitter.com/zoemickleygillenwater\">@zoemickleygillenwater", "http://zoemickleygillenwater.com/\">zoemickleygillenwater.com"]
+["assets/images/speakers/carolyn-chandler.jpg", "Carolyn Chandler", "https://twitter.com/carolynchandler\">@carolynchandler", "http://carolynchandler.com/\">carolynchandler.com"]
+["assets/images/speakers/adam-connor.jpg", "Adam Connor", "https://twitter.com/adamconnor\">@adamconnor", "http://adamconnor.com/\">adamconnor.com"]
+["assets/images/speakers/russ-unger.jpg", "Russ Unger", "https://twitter.com/russunger\">@russunger", "http://russunger.com/\">russunger.com"]
+["assets/images/speakers/jennifer-jones.jpg", "Jennifer Jones", "https://twitter.com/jenniferjones\">@jenniferjones", "http://jenniferjones.com/\">jenniferjones.com"]
+["assets/images/speakers/brad-smith.jpg", "Brad Smith", "https://twitter.com/bradsmith\">@bradsmith", "http://bradsmith.com/\">bradsmith.com"]
+
+
+["assets/images/speakers/maya-bruck.jpg", "Maya Bruck", "https://twitter.com/mayabruck\">@mayabruck", "http://mayabruck.com/\">mayabruck.com"]
+
+
+["assets/images/speakers/tessa-harmon.jpg", "Tessa Harmon", "https://twitter.com/tessaharmon\">@tessaharmon", "http://tessaharmon.com/\">tessaharmon.com"]
+
+
+["assets/images/speakers/leslie-jensen-inman.jpg", "Leslie Jensen Inman", "https://twitter.com/lesliejenseninman\">@lesliejenseninman", "http://lesliejenseninman.com/\">lesliejenseninman.com"]
+
+
+["assets/images/speakers/erica-decker.jpg", "Erica Decker", "https://twitter.com/ericadecker\">@ericadecker", "http://ericadecker.com/\">ericadecker.com"]
+
+
+["assets/images/speakers/aaron-irizarry.jpg", "Aaron Irizarry", "https://twitter.com/aaronirizarry\">@aaronirizarry", "http://aaronirizarry.com/\">aaronirizarry.com"]
+
+
+["assets/images/speakers/jenn-downs.jpg", "Jenn Downs", "https://twitter.com/jenndowns\">@jenndowns", "http://jenndowns.com/\">jenndowns.com"]
+
+
+["assets/images/speakers/arman-ghosh.jpg", "Arman Ghosh", "https://twitter.com/armanghosh\">@armanghosh", "http://armanghosh.com/\">armanghosh.com"]
+
+
+["assets/images/speakers/darby-frey.jpg", "Darby Frey", "https://twitter.com/darbyfrey\">@darbyfrey", "http://darbyfrey.com/\">darbyfrey.com"]
+
+
+["assets/images/speakers/candi-lemoine.jpg", "Candi Lemoine", "https://twitter.com/candilemoine\">@candilemoine", "http://candilemoine.com/\">candilemoine.com"]
+
+
+["assets/images/speakers/vitaly-friedman.jpg", "Vitaly Friedman", "https://twitter.com/vitalyfriedman\">@vitalyfriedman", "http://vitalyfriedman.com/\">vitalyfriedman.com"]
+
+
+["assets/images/speakers/dan-denney.jpg", "Dan Denney", "https://twitter.com/dandenney\">@dandenney", "http://dandenney.com/\">dandenney.com"]
+
+
+["assets/images/speakers/shay-howe.jpg", "Shay Howe", "https://twitter.com/shayhowe\">@shayhowe", "http://shayhowe.com/\">shayhowe.com"]
+
+
+["assets/images/speakers/bermon-painter.jpg", "Bermon Painter", "https://twitter.com/bermonpainter\">@bermonpainter", "http://bermonpainter.com/\">bermonpainter.com"]
+
+
+["assets/images/speakers/aj-self.jpg", "Aj Self", "https://twitter.com/ajself\">@ajself", "http://ajself.com/\">ajself.com"]
+
+
+["assets/images/speakers/jen-myers.jpg", "Jen Myers", "https://twitter.com/jenmyers\">@jenmyers", "http://jenmyers.com/\">jenmyers.com"]
+
+
+["assets/images/speakers/victoria-pater.jpg", "Victoria Pater", "https://twitter.com/victoriapater\">@victoriapater", "http://victoriapater.com/\">victoriapater.com"]
+
+
+["assets/images/speakers/estelle-weyl.jpg", "Estelle Weyl", "https://twitter.com/estelleweyl\">@estelleweyl", "http://estelleweyl.com/\">estelleweyl.com"]
+
+
+["assets/images/speakers/chris-mills.jpg", "Chris Mills", "https://twitter.com/chrismills\">@chrismills", "http://chrismills.com/\">chrismills.com"]
+
+
+["assets/images/speakers/zoe-mickley-gillenwater.jpg", "Zoe Mickley Gillenwater", "https://twitter.com/zoemickleygillenwater\">@zoemickleygillenwater", "http://zoemickleygillenwater.com/\">zoemickleygillenwater.com"]
+
+
+["assets/images/speakers/carolyn-chandler.jpg", "Carolyn Chandler", "https://twitter.com/carolynchandler\">@carolynchandler", "http://carolynchandler.com/\">carolynchandler.com"]
+
+
+["assets/images/speakers/adam-connor.jpg", "Adam Connor", "https://twitter.com/adamconnor\">@adamconnor", "http://adamconnor.com/\">adamconnor.com"]
+
+
+["assets/images/speakers/russ-unger.jpg", "Russ Unger", "https://twitter.com/russunger\">@russunger", "http://russunger.com/\">russunger.com"]
+
+
+["assets/images/speakers/jennifer-jones.jpg", "Jennifer Jones", "https://twitter.com/jenniferjones\">@jenniferjones", "http://jenniferjones.com/\">jenniferjones.com"]
+
+
+["assets/images/speakers/brad-smith.jpg", "Brad Smith", "https://twitter.com/bradsmith\">@bradsmith", "http://bradsmith.com/\">bradsmith.com"]
+
+
+["assets/images/speakers/maya-bruck.jpg", "Maya Bruck", "https://twitter.com/mayabruck\">@mayabruck", "http://mayabruck.com/\">mayabruck.com"]
+
+
+["assets/images/speakers/tessa-harmon.jpg", "Tessa Harmon", "https://twitter.com/tessaharmon\">@tessaharmon", "http://tessaharmon.com/\">tessaharmon.com"]
+
+
+["assets/images/speakers/leslie-jensen-inman.jpg", "Leslie Jensen Inman", "https://twitter.com/lesliejenseninman\">@lesliejenseninman", "http://lesliejenseninman.com/\">lesliejenseninman.com"]
+
+
+["assets/images/speakers/erica-decker.jpg", "Erica Decker", "https://twitter.com/ericadecker\">@ericadecker", "http://ericadecker.com/\">ericadecker.com"]
+
+
+["assets/images/speakers/aaron-irizarry.jpg", "Aaron Irizarry", "https://twitter.com/aaronirizarry\">@aaronirizarry", "http://aaronirizarry.com/\">aaronirizarry.com"]
+
+
+["assets/images/speakers/jenn-downs.jpg", "Jenn Downs", "https://twitter.com/jenndowns\">@jenndowns", "http://jenndowns.com/\">jenndowns.com"]
+
+
+["assets/images/speakers/arman-ghosh.jpg", "Arman Ghosh", "https://twitter.com/armanghosh\">@armanghosh", "http://armanghosh.com/\">armanghosh.com"]
+
+
+["assets/images/speakers/darby-frey.jpg", "Darby Frey", "https://twitter.com/darbyfrey\">@darbyfrey", "http://darbyfrey.com/\">darbyfrey.com"]
+
+
+["assets/images/speakers/candi-lemoine.jpg", "Candi Lemoine", "https://twitter.com/candilemoine\">@candilemoine", "http://candilemoine.com/\">candilemoine.com"]
+
+
+["assets/images/speakers/vitaly-friedman.jpg", "Vitaly Friedman", "https://twitter.com/vitalyfriedman\">@vitalyfriedman", "http://vitalyfriedman.com/\">vitalyfriedman.com"]
+
+
+["assets/images/speakers/dan-denney.jpg", "Dan Denney", "https://twitter.com/dandenney\">@dandenney", "http://dandenney.com/\">dandenney.com"]
+
+
+["assets/images/speakers/shay-howe.jpg", "Shay Howe", "https://twitter.com/shayhowe\">@shayhowe", "http://shayhowe.com/\">shayhowe.com"]
+
+
+["assets/images/speakers/bermon-painter.jpg", "Bermon Painter", "https://twitter.com/bermonpainter\">@bermonpainter", "http://bermonpainter.com/\">bermonpainter.com"]
+
+
+["assets/images/speakers/aj-self.jpg", "Aj Self", "https://twitter.com/ajself\">@ajself", "http://ajself.com/\">ajself.com"]
+
+
+["assets/images/speakers/jen-myers.jpg", "Jen Myers", "https://twitter.com/jenmyers\">@jenmyers", "http://jenmyers.com/\">jenmyers.com"]
+
+
+["assets/images/speakers/victoria-pater.jpg", "Victoria Pater", "https://twitter.com/victoriapater\">@victoriapater", "http://victoriapater.com/\">victoriapater.com"]
+
+
+["assets/images/speakers/estelle-weyl.jpg", "Estelle Weyl", "https://twitter.com/estelleweyl\">@estelleweyl", "http://estelleweyl.com/\">estelleweyl.com"]
+
+
+["assets/images/speakers/chris-mills.jpg", "Chris Mills", "https://twitter.com/chrismills\">@chrismills", "http://chrismills.com/\">chrismills.com"]
+
+
+["assets/images/speakers/zoe-mickley-gillenwater.jpg", "Zoe Mickley Gillenwater", "https://twitter.com/zoemickleygillenwater\">@zoemickleygillenwater", "http://zoemickleygillenwater.com/\">zoemickleygillenwater.com"]
+
+
+["assets/images/speakers/carolyn-chandler.jpg", "Carolyn Chandler", "https://twitter.com/carolynchandler\">@carolynchandler", "http://carolynchandler.com/\">carolynchandler.com"]
+
+
+["assets/images/speakers/adam-connor.jpg", "Adam Connor", "https://twitter.com/adamconnor\">@adamconnor", "http://adamconnor.com/\">adamconnor.com"]
+
+
+["assets/images/speakers/russ-unger.jpg", "Russ Unger", "https://twitter.com/russunger\">@russunger", "http://russunger.com/\">russunger.com"]
+
+
+["assets/images/speakers/jennifer-jones.jpg", "Jennifer Jones", "https://twitter.com/jenniferjones\">@jenniferjones", "http://jenniferjones.com/\">jenniferjones.com"]
+
+
