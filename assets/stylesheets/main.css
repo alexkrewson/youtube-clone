@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+  background-color: #f9f9f9;
 }
 ol, ul {
   list-style: none;
@@ -53,8 +54,12 @@ table {
   ========================================
 */
 
+/* iframe {
+  margin-left: 426px;
+} */
+
 body {
-  background: #293f50;
+  /* background: #293f50; */
   color: #888;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -75,10 +80,10 @@ body {
 .container,
 .grid {
   margin: 0 auto;
-  width: 960px;
+  /* width: 960px; */
 }
 .container {
-  padding-left: 30px;
+  /* padding-left: 30px; */
   padding-right: 30px;
 }
 .grid,
@@ -128,10 +133,10 @@ body {
 .row-alt {
   min-width: 960px;
 }
-.row {
+/* .row {
   background: #fff;
   padding: 66px 0 44px 0;
-}
+} */
 .row-alt {
   background: #cbe2c1;
   background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
@@ -312,12 +317,63 @@ p a {
   ========================================
 */
 
-.hero {
-  color: #fff;
+.row {
+  /* color: #fff; */
+  /* background: #f9f9f9; */
   line-height: 44px;
-  padding: 22px 80px 66px 80px;
-  text-align: center;
+  /* padding: 22px 80px 66px 80px; */
+  /* text-align: center; */
+  margin-left: 120px;
+  margin-top: 18px;
 }
+
+.reccomendations{
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 525px; /* Set the width of the sidebar */
+  position: absolute;
+  z-index: 1; /* Stay on top */
+  top: 52px;
+  right: 0;
+  /* background: #f9f9f9; */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+  /* border-style: solid;
+  border-width: thick;
+  border-color: black; */
+  /* margin-top: 18px; */
+}
+
+.column_1{
+  width: 685px;
+  float: left;
+  /* width: 50%; */
+}
+
+.column_2{
+  width: 390px;
+  float: left;
+  margin-left: 19px;
+  margin-top: -6px;
+
+  /* width: 50%; */
+}
+
+row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.reccomendation_thumbnail{
+  margin-top: 5px;
+  margin-left: 1px;
+  height: 510px;
+  /* border-style: solid;
+  border-width: thick;
+  border-color: black; */
+
+}
+
 .hero h2 {
   font-size: 36px;
 }
